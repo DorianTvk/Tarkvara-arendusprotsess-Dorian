@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\CASE",
-    "\\Images",
-    "\\SDLC"
+    "\\CASE\\images",
+    "\\ERD",
+    "\\Libre",
+    "\\Libre\\ProjectLibre-main"
   ],
-  "SelectedNode": "\\SDLC\\bigbang.html",
+  "SelectedNode": "\\Libre\\who.html",
   "PreviewInSolutionExplorer": false
 }
